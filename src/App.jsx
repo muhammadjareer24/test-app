@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Muhammad Jareer!</h1>
+      <h3>Hello 👋</h3>
       <p>Testing Vite + React App</p>
       <p>Making Changes...</p>
       <div className="card">
